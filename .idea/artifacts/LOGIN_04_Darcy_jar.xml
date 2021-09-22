@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="LOGIN_04_Darcy:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/LOGIN_04_Darcy_jar</output-path>
+    <root id="archive" name="LOGIN_04_Darcy.jar">
+      <element id="module-output" name="LOGIN_04_Darcy" />
+    </root>
+  </artifact>
+</component>
